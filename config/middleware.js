@@ -1,0 +1,13 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = middleware;
+function middleware() /* router, application */{
+
+  // Add your own middleware that will execute before Denali:
+  // this.use(someMiddlewareFunction);
+
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbmZpZy9taWRkbGV3YXJlLmpzIl0sIm5hbWVzIjpbIm1pZGRsZXdhcmUiXSwibWFwcGluZ3MiOiI7Ozs7O2tCQUF3QkEsVTtBQUFULFNBQVNBLFVBQVQsR0FBb0IseUJBQTJCOztBQUU1RDtBQUNBOztBQUVEIiwiZmlsZSI6ImNvbmZpZy9taWRkbGV3YXJlLmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9hY2J1cmRpbmUvUHJvamVjdHMvZGVuYWxpL2RlbmFsaS1zZXF1ZWxpemUiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBtaWRkbGV3YXJlKC8qIHJvdXRlciwgYXBwbGljYXRpb24gKi8pIHtcblxuICAvLyBBZGQgeW91ciBvd24gbWlkZGxld2FyZSB0aGF0IHdpbGwgZXhlY3V0ZSBiZWZvcmUgRGVuYWxpOlxuICAvLyB0aGlzLnVzZShzb21lTWlkZGxld2FyZUZ1bmN0aW9uKTtcblxufVxuIl19

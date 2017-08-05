@@ -1,0 +1,8 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = drawRoutes;
+function drawRoutes() /* router */{}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbmZpZy9yb3V0ZXMuanMiXSwibmFtZXMiOlsiZHJhd1JvdXRlcyJdLCJtYXBwaW5ncyI6Ijs7Ozs7a0JBQXdCQSxVO0FBQVQsU0FBU0EsVUFBVCxHQUFvQixZQUFjLENBQ2hEIiwiZmlsZSI6ImNvbmZpZy9yb3V0ZXMuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL2FjYnVyZGluZS9Qcm9qZWN0cy9kZW5hbGkvZGVuYWxpLXNlcXVlbGl6ZSIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIGRyYXdSb3V0ZXMoLyogcm91dGVyICovKSB7XG59XG4iXX0=
