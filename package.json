@@ -11,19 +11,19 @@
     "denali-addon",
     "addon"
   ],
-  "main": "app/addon.js",
+  "main": "lib/sequelize-adapter.js",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.6",
-    "denali": "0.0.26",
-    "denali-cli": "0.0.x",
+    "denali": "^0.0.30",
+    "denali-cli": "0.0.12",
     "eslint-config-denali": "^1.1.0",
     "in-publish": "^2.0.0",
     "lodash": "^4.16.4",
-    "sequelize": "^4.1.0"
+    "sequelize": "^4.4.2"
   },
   "devDependencies": {
-    "ava": "^0.17.0",
+    "ava": "^0.21.0",
     "babel-eslint": "^7.1.1",
     "babel-plugin-syntax-async-functions": "^6.13.0",
     "babel-plugin-syntax-trailing-function-commas": "^6.13.0",
